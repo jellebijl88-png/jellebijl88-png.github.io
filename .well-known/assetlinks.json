@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jellebijl88_png.twa",
+        "sha256_cert_fingerprints": ["6F:A1:2D:F1:40:EB:B5:06:73:6B:87:AD:3D:3D:97:49:03:B0:81:BC:CB:CF:BE:C3:79:BC:6F:E5:20:CE:73:EC"]
+      }
+    }]
